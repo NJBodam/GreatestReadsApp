@@ -1,4 +1,4 @@
-package com.example.betterreadsdataloader.book;
+package com.example.greaterreads.book;
 
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;

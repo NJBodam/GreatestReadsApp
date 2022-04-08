@@ -1,4 +1,4 @@
-package com.example.betterreadsdataloader.book;
+package com.example.greaterreads.book;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.cassandra.core.cql.PrimaryKeyType;
