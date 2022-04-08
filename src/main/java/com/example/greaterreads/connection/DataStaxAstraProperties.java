@@ -1,7 +1,6 @@
-package com.example.betterreadsdataloader.connection;
+package com.example.greaterreads.connection;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
-
 
 import java.io.File;
 
